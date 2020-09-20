@@ -1,0 +1,9 @@
+.wrapper {
+    padding: 20px 10px;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+
+.nick {
+    font-size: 20px;
+}
